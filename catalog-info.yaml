@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Testapp1
+  annotations:
+    github.com/project-slug: Elimax19/Testapp1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: elimax19
